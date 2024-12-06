@@ -23,6 +23,7 @@ NYC Trip
 ## Day 3: 12/09 (Monday)
 
     Morning:
+    THE RIDE (10:30)
     Walk the High Line and visit Chelsea Market (shopping).            $30 <- NOT IN PASS
 
     Afternoon:
