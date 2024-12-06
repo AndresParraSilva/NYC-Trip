@@ -23,10 +23,10 @@ NYC Trip
 ## Day 3: 12/09 (Monday)
 
     Morning:
-    Discover The Met Museum (spend 2–3 hours on highlights).            $30 <- NOT IN PASS
+    Walk the High Line and visit Chelsea Market (shopping).            $30 <- NOT IN PASS
 
     Afternoon:
-    Walk the High Line and visit Chelsea Market (lunch and shopping).
+    Empire State Building Observatory (2:45 PM)
     
     Evening:
     See the Rockefeller Center Christmas Tree and holiday window displays along Fifth Avenue.
@@ -67,7 +67,7 @@ NYC Trip
 ## Day 7: 12/13 (Friday)
 
     Morning:
-    Visit the Top of the Rock Observatory for stunning views of NYC.     $44-$60
+    Visit the Top of the Rock Observatory for stunning views of NYC (10:10 AM).     $44-$60
 
     Afternoon:
     Shop at Macy’s or explore more holiday markets (Union Square or Columbus Circle).
@@ -89,7 +89,7 @@ NYC Trip
 ## Day 9: 12/15 (Sunday)
 
     Morning:
-    Revisit favorites or enjoy ice skating at Wollman Rink in Central Park.
+    Edge observatory.
 
     Afternoon:
     Try bagels and lox from Russ & Daughters and cheesecake from Junior’s.
@@ -101,6 +101,7 @@ NYC Trip
 
     Morning:
     Free day for shopping or relaxing. Consider visiting holiday markets for last-minute gifts.
+    New York Hall of Science museum.
 
     Afternoon:
     Lunch at Katz’s Delicatessen for classic Jewish deli fare.
