@@ -3,22 +3,25 @@ NYC Trip
 
 ## Day 1: 12/07 (Saturday)
 
-    Midday: Arrive and settle into Lenox Hill.
+    Desayuno en Subway
+    Midday: Arrive and settle into Lenox Hill. ✅
     
-    Afternoon: Explore Central Park, including The Mall, Bow Bridge, and Bethesda Terrace.
+    Afternoon: Explore Central Park ✅, including The Mall, Bow Bridge, and Bethesda Terrace.
+    Macy's ✅
+    Almuerzo en Chiplote
  
-    Evening: Knicks vs. Pistons game at Madison Square Garden (fixed).
+    Evening: Knicks vs. Pistons game at Madison Square Garden (fixed). (drama) ✅
 
 ## Day 2: 12/08 (Sunday)
 
-    Morning: Visit the Statue of Liberty (ferry from Battery Park).              $25
+    Morning: Visit the Statue of Liberty (ferry from Battery Park) (drama) ✅
     
     Afternoon:
-    Walk through the 9/11 Memorial and Museum.                          $33
-    Stroll across the Brooklyn Bridge for sunset views.
+    [ ] Walk through the 9/11 Memorial and Museum.       $33
+    [ ] Stroll across the Brooklyn Bridge for sunset views.
     
-    Evening:
-    Dinner in Chinatown (try dim sum or spicy Szechuan cuisine).
+    
+    Almuerzo in Chinatown ✅ (try dim sum or spicy Szechuan cuisine). 
 
 ## Day 3: 12/09 (Monday)
 
