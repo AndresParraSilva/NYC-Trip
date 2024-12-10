@@ -8,7 +8,7 @@ NYC Trip
     
     Afternoon: Explore Central Park ✅, including The Mall, Bow Bridge, and Bethesda Terrace.
     Macy's ✅
-    Almuerzo en Chiplote
+    Almuerzo en Chiplote ✅
  
     Evening: Knicks vs. Pistons game at Madison Square Garden (fixed). (drama) ✅
 
@@ -16,24 +16,30 @@ NYC Trip
 
     Morning: Visit the Statue of Liberty (ferry from Battery Park) (drama) ✅
     
-    Afternoon:
+    Almuerzo in Chinatown ✅ (try [ ] dim sum or spicy Szechuan cuisine)
+
+    Evening:
+    See the Rockefeller Center Christmas Tree and holiday window displays along Fifth Avenue. ✅
+
+    "Best beer in the world" ✅
+    
     [ ] Walk through the 9/11 Memorial and Museum.       $33
     [ ] Stroll across the Brooklyn Bridge for sunset views.
-    
-    
-    Almuerzo in Chinatown ✅ (try dim sum or spicy Szechuan cuisine). 
+    . 
 
 ## Day 3: 12/09 (Monday)
 
     Morning:
-    THE RIDE (10:30)
-    Walk the High Line and visit Chelsea Market (shopping).            $30 <- NOT IN PASS
+    THE RIDE (10:30) ✅
+    [ ] Walk the High Line and visit Chelsea Market (shopping).            $30 <- NOT IN PASS
 
-    Afternoon:
-    Empire State Building Observatory (2:45 PM)
+    Almuerzo comida italiana ✅
     
-    Evening:
-    See the Rockefeller Center Christmas Tree and holiday window displays along Fifth Avenue.
+    Afternoon:
+    Empire State Building Observatory (2:45 PM) ✅
+
+    Chelas al lado de The Miracle ✅
+    
 
 ## Day 4: 12/10 (Tuesday)
 
@@ -44,6 +50,7 @@ NYC Trip
     Explore Bryant Park Winter Village for shopping and ice skating.
     
     Evening:
+    Little Shop of Horrors (7 PM)
     Dinner near Times Square (consider New York-style pizza or a steakhouse).
 
 ## Day 5: 12/11 (Wednesday)
