@@ -22,16 +22,11 @@ NYC Trip
     See the Rockefeller Center Christmas Tree and holiday window displays along Fifth Avenue. ✅
 
     "Best beer in the world" ✅
-    
-    [ ] Walk through the 9/11 Memorial and Museum.       $33
-    [ ] Stroll across the Brooklyn Bridge for sunset views.
-    . 
 
 ## Day 3: 12/09 (Monday)
 
     Morning:
     THE RIDE (10:30) ✅
-    [ ] Walk the High Line and visit Chelsea Market (shopping).            $30 <- NOT IN PASS
 
     Almuerzo comida italiana ✅
     
@@ -39,7 +34,6 @@ NYC Trip
     Empire State Building Observatory (2:45 PM) ✅
 
     Chelas al lado de The Miracle ✅
-    
 
 ## Day 4: 12/10 (Tuesday)
 
@@ -68,6 +62,7 @@ NYC Trip
 
     Morning:
     Take the East River Tramway for unique skyline views.
+    [ ] Walk the High Line and visit Chelsea Market (shopping).            $30 <- NOT IN PASS
 
     Afternoon:
     Shop for winter essentials at Five Stride Skate Shop and Guitar Center.
@@ -81,7 +76,8 @@ NYC Trip
     Visit the Top of the Rock Observatory for stunning views of NYC (10:10 AM).     $44-$60
 
     Afternoon:
-    Shop at Macy’s or explore more holiday markets (Union Square or Columbus Circle).
+    Comprar gomas para paleta de ping-pong.
+    Explore more holiday markets (Union Square or Columbus Circle).
     
     Evening:
     Enjoy a festive dinner and Christmas cocktails at Rolf’s or Miracle on 9th Street.
@@ -89,10 +85,11 @@ NYC Trip
 ## Day 8: 12/14 (Saturday)
 
     Morning:
-    Visit the Catedral de San Patricio and enjoy a peaceful walk around Rockefeller Plaza.
-
-    Afternoon:
     Tour Dyker Heights Christmas Lights (guided tours recommended). guided bus tour $50 <- NOT IN PASS
+    
+    Afternoon:
+    [ ] Walk through the 9/11 Memorial and Museum.       $33
+    [ ] Stroll across the Brooklyn Bridge for sunset views
     
     Evening:
     Dinner in Brooklyn (try modern Mexican or Caribbean cuisine).
