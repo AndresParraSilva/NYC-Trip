@@ -6,7 +6,7 @@ NYC Trip
     Desayuno en Subway
     Midday: Arrive and settle into Lenox Hill. ✅
     
-    Afternoon: Explore Central Park ✅, including The Mall, Bow Bridge, and Bethesda Terrace.
+    Afternoon: Explore Central Park ✅, [ ] including The Mall, Bow Bridge, and Bethesda Terrace.
     Macy's ✅
     Almuerzo en Chiplote ✅
  
@@ -38,15 +38,16 @@ NYC Trip
 ## Day 4: 12/10 (Tuesday)
 
     Morning:
-    Visit the Museum of Modern Art (MoMA).                              $30
+    Visit the Museum of Modern Art (MoMA). ✅
 
     Afternoon:
-    Explore Bryant Park Winter Village for shopping and ice skating.
+    Explore Bryant Park Winter Village for shopping and ice skating. ✅
+    Hot dogs ✅
     
     Evening:
-    Little Shop of Horrors (7 PM)
-    Dinner near Times Square (consider New York-style pizza or a steakhouse).
-
+    Dinner near Times Square New York-style pizza ✅
+    Little Shop of Horrors (7 PM) ✅
+    
 ## Day 5: 12/11 (Wednesday)
 
     Morning:
@@ -108,6 +109,7 @@ NYC Trip
 ## Day 10: 12/16 (Monday)
 
     Morning:
+    Met
     Free day for shopping or relaxing. Consider visiting holiday markets for last-minute gifts.
     New York Hall of Science museum.
 
