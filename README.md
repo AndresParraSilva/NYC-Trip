@@ -21,7 +21,7 @@ NYC Trip
     Evening:
     See the Rockefeller Center Christmas Tree and holiday window displays along Fifth Avenue. ✅
 
-    "Best beer in the world" ✅
+    "Best beer in the city" ✅
 
 ## Day 3: 12/09 (Monday)
 
@@ -81,6 +81,7 @@ NYC Trip
     Explore more holiday markets (Union Square or Columbus Circle).
     
     Evening:
+    Paseo en bote.
     Enjoy a festive dinner and Christmas cocktails at Rolf’s or Miracle on 9th Street.
 
 ## Day 8: 12/14 (Saturday)
@@ -117,6 +118,7 @@ NYC Trip
     Lunch at Katz’s Delicatessen for classic Jewish deli fare.
     
     Evening:
+    Butterbeer.
     Reflect on your trip with a casual dinner in Lenox Hill.
 
 ## Day 11: 12/17 (Tuesday)
