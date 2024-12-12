@@ -52,9 +52,10 @@ NYC Trip
 
     Morning + Afternon:
     Visit the American Museum of Natural History. ✅
+    Almuerzo en el casino del museo.
     
     Evening:
-    Beer garden.
+    Beer garden. ✅
 
 ## Day 6: 12/12 (Thursday)
 
@@ -75,6 +76,7 @@ NYC Trip
     Visit the Top of the Rock Observatory for stunning views of NYC (10:10 AM).     $44-$60
 
     Afternoon:
+    Comprar smartwatch y auriculares.
     Comprar gomas para paleta de ping-pong.
     Explore more holiday markets (Union Square or Columbus Circle).
     
