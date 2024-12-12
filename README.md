@@ -50,20 +50,18 @@ NYC Trip
     
 ## Day 5: 12/11 (Wednesday)
 
-    Morning:
-    Visit the American Museum of Natural History.                       $30
-
-    Afternoon:
-    Explore Grand Central Terminal and stop by the New York Public Library.
+    Morning + Afternon:
+    Visit the American Museum of Natural History. ✅
     
     Evening:
-    Enjoy a quiet dinner at a French bistro like Balthazar.
+    Beer garden.
 
 ## Day 6: 12/12 (Thursday)
 
     Morning:
+    Walk through the 9/11 Memorial and Museum.
+    Explorar Wall Street.
     Take the East River Tramway for unique skyline views.
-    [ ] Walk the High Line and visit Chelsea Market (shopping).            $30 <- NOT IN PASS
 
     Afternoon:
     Shop for winter essentials at Five Stride Skate Shop and Guitar Center.
@@ -90,7 +88,7 @@ NYC Trip
     Tour Dyker Heights Christmas Lights (guided tours recommended). guided bus tour $50 <- NOT IN PASS
     
     Afternoon:
-    [ ] Walk through the 9/11 Memorial and Museum.       $33
+    [ ] Walk the High Line and visit Chelsea Market (shopping).            $30 <- NOT IN PASS
     [ ] Stroll across the Brooklyn Bridge for sunset views
     
     Evening:
@@ -125,5 +123,10 @@ NYC Trip
 
     Morning: Check out and enjoy a relaxed breakfast.
     
-    Midday: Departure.
+    Leslie Departure 🛫: 6:30 PM
+    Marcel departure 🛫: 8:40 PM
+    
+## Unscheduled
 
+    Explore Grand Central Terminal and stop by the New York Public Library.
+    Enjoy a quiet dinner at a French bistro like Balthazar.
