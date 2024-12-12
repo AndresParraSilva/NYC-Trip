@@ -103,6 +103,7 @@ NYC Trip
 
     Afternoon:
     Try bagels and lox from Russ & Daughters and cheesecake from Junior’s.
+    Butterbeer.
     
     Evening:
     Attend the Radio City Christmas Spectacular.                                $55-$250/Tour $42
@@ -116,16 +117,15 @@ NYC Trip
 
     Afternoon:
     Lunch at Katz’s Delicatessen for classic Jewish deli fare.
+    Leslie Departure 🛫: 6:30 PM
     
     Evening:
-    Butterbeer.
     Reflect on your trip with a casual dinner in Lenox Hill.
 
 ## Day 11: 12/17 (Tuesday)
 
     Morning: Check out and enjoy a relaxed breakfast.
     
-    Leslie Departure 🛫: 6:30 PM
     Marcel departure 🛫: 8:40 PM
     
 ## Unscheduled
