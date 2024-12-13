@@ -60,20 +60,21 @@ NYC Trip
 ## Day 6: 12/12 (Thursday)
 
     Morning:
-    Walk through the 9/11 Memorial and Museum.
-    Explorar Wall Street.
-    Take the East River Tramway for unique skyline views.
-
-    Afternoon:
-    Shop for winter essentials at Five Stride Skate Shop and Guitar Center.
+    Walk through the 9/11 Memorial and Museum. ✅
+    Explorar Wall Street. ✅
     
+    Afternoon:
+    Stroll across the Brooklyn Bridge for sunset views. ✅
+    Almuerzo en DUMBO in Brooklyn (seafood). ✅
+       
     Evening:
-    Meet for drinks with your boss (fixed).
+    Meet for drinks with your boss (fixed). ✅
 
 ## Day 7: 12/13 (Friday)
 
     Morning:
     Visit the Top of the Rock Observatory for stunning views of NYC (10:10 AM).     $44-$60
+    Shop for winter essentials at Five Stride Skate Shop and Guitar Center.
 
     Afternoon:
     Comprar smartwatch y auriculares.
@@ -91,7 +92,6 @@ NYC Trip
     
     Afternoon:
     [ ] Walk the High Line and visit Chelsea Market (shopping).            $30 <- NOT IN PASS
-    [ ] Stroll across the Brooklyn Bridge for sunset views
     
     Evening:
     Dinner in Brooklyn (try modern Mexican or Caribbean cuisine).
@@ -132,3 +132,4 @@ NYC Trip
 
     Explore Grand Central Terminal and stop by the New York Public Library.
     Enjoy a quiet dinner at a French bistro like Balthazar.
+    Take the East River Tramway for unique skyline views.
