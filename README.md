@@ -102,10 +102,10 @@ NYC Trip
 
     Afternoon:
     Try bagels and lox from Russ & Daughters and cheesecake from Junior’s.
-    Butterbeer.
     
     Evening:
-    Attend the Radio City Christmas Spectacular.                                $55-$250/Tour $42
+    Paseo en bote (7:00 PM).
+    
 
 ## Day 10: 12/16 (Monday)
 
@@ -134,5 +134,5 @@ NYC Trip
     Take the East River Tramway for unique skyline views.
     Tour Dyker Heights Christmas Lights (guided tours recommended). guided bus tour $50 <- NOT IN PASS
     Explore more holiday markets (Union Square or Columbus Circle).
-        Paseo en bote.
     Enjoy a festive dinner and Christmas cocktails at Rolf’s or Miracle on 9th Street.
+    Attend the Radio City Christmas Spectacular.                                $55-$250/Tour $42
