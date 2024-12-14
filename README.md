@@ -73,28 +73,27 @@ NYC Trip
 ## Day 7: 12/13 (Friday)
 
     Morning:
-    Visit the Top of the Rock Observatory for stunning views of NYC (10:10 AM).     $44-$60
+    Visit the Top of the Rock Observatory for stunning views of NYC (10:10 AM). ✅
+    The Met. ✅
+    Almuerzo en The Met.
+    
+    Evening:
+    Butterbeer & Harry Potter experience. ✅
+    Burger & Roast Beef en sucucho.
+
+## Day 8: 12/14 (Saturday)
+
+    Morning:
+    Hudson Yards, Walk the High Line and visit Chelsea Market (shopping).            $30 <- NOT IN PASS
     Shop for winter essentials at Five Stride Skate Shop and Guitar Center.
 
     Afternoon:
     Comprar smartwatch y auriculares.
     Comprar gomas para paleta de ping-pong.
-    Explore more holiday markets (Union Square or Columbus Circle).
+    Retirar envíos Martín.
     
     Evening:
-    Paseo en bote.
-    Enjoy a festive dinner and Christmas cocktails at Rolf’s or Miracle on 9th Street.
-
-## Day 8: 12/14 (Saturday)
-
-    Morning:
-    Tour Dyker Heights Christmas Lights (guided tours recommended). guided bus tour $50 <- NOT IN PASS
-    
-    Afternoon:
-    [ ] Walk the High Line and visit Chelsea Market (shopping).            $30 <- NOT IN PASS
-    
-    Evening:
-    Dinner in Brooklyn (try modern Mexican or Caribbean cuisine).
+    Piano duels.
 
 ## Day 9: 12/15 (Sunday)
 
@@ -111,7 +110,7 @@ NYC Trip
 ## Day 10: 12/16 (Monday)
 
     Morning:
-    Met
+    
     Free day for shopping or relaxing. Consider visiting holiday markets for last-minute gifts.
     New York Hall of Science museum.
 
@@ -133,3 +132,7 @@ NYC Trip
     Explore Grand Central Terminal and stop by the New York Public Library.
     Enjoy a quiet dinner at a French bistro like Balthazar.
     Take the East River Tramway for unique skyline views.
+    Tour Dyker Heights Christmas Lights (guided tours recommended). guided bus tour $50 <- NOT IN PASS
+    Explore more holiday markets (Union Square or Columbus Circle).
+        Paseo en bote.
+    Enjoy a festive dinner and Christmas cocktails at Rolf’s or Miracle on 9th Street.
