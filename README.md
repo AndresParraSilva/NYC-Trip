@@ -84,7 +84,7 @@ NYC Trip
 ## Day 8: 12/14 (Saturday)
 
     Morning:
-    Hudson Yards, Walk the High Line and visit Chelsea Market (shopping).            $30 <- NOT IN PASS
+    Hudson Yards, Walk the High Line and visit Chelsea Market (shopping (candies)).            $30 <- NOT IN PASS
     Shop for winter essentials at Five Stride Skate Shop and Guitar Center.
 
     Afternoon:
