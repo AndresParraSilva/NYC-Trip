@@ -84,34 +84,46 @@ NYC Trip
 ## Day 8: 12/14 (Saturday)
 
     Morning:
-    Hudson Yards, Walk the High Line and visit Chelsea Market (shopping (candies)).            $30 <- NOT IN PASS
+    Hudson Yards (The Vessel). ✅
+    Walk the High Line. ✅
+    Little Island. ✅
+    Chelsea Market. ✅
+    shopping (candies). ✅
+    Korean food. ✅
+    
+    Afternoon:
+    The Edge (peor café de NYC). ✅
+    
+    Evening:
+    Harbor Lights Cruise: Circle Line Sightseeing. ✅
+    Pizza italiana con música pop de medio oriente. ✅
+
+## Day 9: 12/15 (Sunday)
+
+    Morning:
+    Harlem Tour (M).
+    Bethesda Terrace (L).
+
+    Midday:
+    Gospel service.
+
+    Afternoon:
+    Try bagels and lox from Russ & Daughters and cheesecake from Junior’s.
+    
+    Evening:
+    ?
+    
+
+## Day 10: 12/16 (Monday)
+
+    Morning:
     Shop for winter essentials at Five Stride Skate Shop and Guitar Center.
 
     Afternoon:
     Comprar smartwatch y auriculares.
     Comprar gomas para paleta de ping-pong.
     Retirar envíos Martín.
-    
-    Evening:
-    Piano duels.
-
-## Day 9: 12/15 (Sunday)
-
-    Morning:
-    Edge observatory.
-
-    Afternoon:
-    Try bagels and lox from Russ & Daughters and cheesecake from Junior’s.
-    
-    Evening:
-    Paseo en bote (7:00 PM).
-    
-
-## Day 10: 12/16 (Monday)
-
-    Morning:
-    
-    Free day for shopping or relaxing. Consider visiting holiday markets for last-minute gifts.
+    Last-minute gifts.
     New York Hall of Science museum.
 
     Afternoon:
@@ -136,3 +148,4 @@ NYC Trip
     Explore more holiday markets (Union Square or Columbus Circle).
     Enjoy a festive dinner and Christmas cocktails at Rolf’s or Miracle on 9th Street.
     Attend the Radio City Christmas Spectacular.                                $55-$250/Tour $42
+    Piano duels.
