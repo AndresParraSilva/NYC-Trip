@@ -6,7 +6,7 @@ NYC Trip
     Desayuno en Subway
     Midday: Arrive and settle into Lenox Hill. ✅
     
-    Afternoon: Explore Central Park ✅, [ ] including The Mall, Bow Bridge, and Bethesda Terrace.
+    Afternoon: Explore Central Park ✅, [ ] including The Mall, 
     Macy's ✅
     Almuerzo en Chiplote ✅
  
@@ -101,34 +101,38 @@ NYC Trip
 ## Day 9: 12/15 (Sunday)
 
     Morning:
-    Harlem Tour (M).
-    Bethesda Terrace (L).
+    Harlem Tour (M) and Gospel service. ✅
 
     Midday:
-    Gospel service.
+    Central Park pendings: Bethesda Terrace, Bow Bridge. ✅
+    Helpful new yorker!
+    Macy's II. ✅
+    Halal food in Broadway & 32nd. ✅
 
     Afternoon:
-    Try bagels and lox from Russ & Daughters and cheesecake from Junior’s.
+    Retirar envíos Martín. ✅
     
     Evening:
-    ?
-    
+    Tomi Jazz. ✅
 
 ## Day 10: 12/16 (Monday)
 
     Morning:
-    Shop for winter essentials at Five Stride Skate Shop and Guitar Center.
+    Explore Grand Central Terminal and stop by the New York Public Library.
 
     Afternoon:
+    Leslie Departure 🛫: 6:30 PM
+    
+    Shop for winter essentials at Five Stride Skate Shop and Guitar Center.
     Comprar smartwatch y auriculares.
     Comprar gomas para paleta de ping-pong.
-    Retirar envíos Martín.
+    
     Last-minute gifts.
     New York Hall of Science museum.
 
     Afternoon:
     Lunch at Katz’s Delicatessen for classic Jewish deli fare.
-    Leslie Departure 🛫: 6:30 PM
+    
     
     Evening:
     Reflect on your trip with a casual dinner in Lenox Hill.
@@ -141,7 +145,7 @@ NYC Trip
     
 ## Unscheduled
 
-    Explore Grand Central Terminal and stop by the New York Public Library.
+    
     Enjoy a quiet dinner at a French bistro like Balthazar.
     Take the East River Tramway for unique skyline views.
     Tour Dyker Heights Christmas Lights (guided tours recommended). guided bus tour $50 <- NOT IN PASS
@@ -149,3 +153,4 @@ NYC Trip
     Enjoy a festive dinner and Christmas cocktails at Rolf’s or Miracle on 9th Street.
     Attend the Radio City Christmas Spectacular.                                $55-$250/Tour $42
     Piano duels.
+    Try bagels and lox from Russ & Daughters and cheesecake from Junior’s.
