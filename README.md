@@ -118,7 +118,7 @@ NYC Trip
 ## Day 10: 12/16 (Monday)
 
     Morning:
-    Explore Grand Central Terminal and stop by the New York Public Library.
+    Explore Grand Central Terminal ✅ and stop by the New York Public Library. ✅
 
     Afternoon:
     Leslie Departure 🛫: 6:30 PM
