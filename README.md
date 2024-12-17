@@ -135,6 +135,7 @@ NYC Trip
     Morning:
     Comprar smartwatch.
     Macy's III?
+    HOPE sculpture.
     Last-minute gifts.
     
     Marcel departure 🛫: 8:40 PM
