@@ -3,12 +3,13 @@ NYC Trip
 
 ## Day 1: 12/07 (Saturday)
 
-    Desayuno en Subway
+    Desayuno en Subway.
     Midday: Arrive and settle into Lenox Hill. ✅
     
-    Afternoon: Explore Central Park ✅, [ ] including The Mall, 
-    Macy's ✅
-    Almuerzo en Chiplote ✅
+    Afternoon: Explore Central Park. ✅
+    Macy's. ✅
+    Almuerzo en Chiplote.
+    Times Square de día. ✅
  
     Evening: Knicks vs. Pistons game at Madison Square Garden (fixed). (drama) ✅
 
@@ -16,7 +17,7 @@ NYC Trip
 
     Morning: Visit the Statue of Liberty (ferry from Battery Park) (drama) ✅
     
-    Almuerzo in Chinatown ✅ (try [ ] dim sum or spicy Szechuan cuisine)
+    Almuerzo in Chinatown ✅
 
     Evening:
     See the Rockefeller Center Christmas Tree and holiday window displays along Fifth Avenue. ✅
@@ -113,7 +114,7 @@ NYC Trip
     Retirar envíos Martín. ✅
     
     Evening:
-    Tomi Jazz. ✅
+    Tomi Jazz (live music, noodles, japanese beer, petit squids). ✅
 
 ## Day 10: 12/16 (Monday)
 
@@ -121,31 +122,26 @@ NYC Trip
     Explore Grand Central Terminal ✅ and stop by the New York Public Library. ✅
 
     Afternoon:
-    Leslie Departure 🛫: 6:30 PM
-    
-    Shop for winter essentials at Five Stride Skate Shop and Guitar Center.
-    Comprar smartwatch y auriculares.
-    Comprar gomas para paleta de ping-pong.
-    
-    Last-minute gifts.
-    New York Hall of Science museum.
-
-    Afternoon:
-    Lunch at Katz’s Delicatessen for classic Jewish deli fare.
-    
+    Leslie Departure 🛫: 6:30 PM ✅
+     
+    Comida japonesa en Lucky Cat (mala)
+    Comprar trimmer y auriculares. ✅
     
     Evening:
-    Reflect on your trip with a casual dinner in Lenox Hill.
+    McDonald's ✅
 
 ## Day 11: 12/17 (Tuesday)
 
-    Morning: Check out and enjoy a relaxed breakfast.
+    Morning:
+    Comprar smartwatch.
+    Macy's III?
+    Last-minute gifts.
     
     Marcel departure 🛫: 8:40 PM
     
 ## Unscheduled
 
-    
+    Dim sum or spicy Szechuan cuisine.
     Enjoy a quiet dinner at a French bistro like Balthazar.
     Take the East River Tramway for unique skyline views.
     Tour Dyker Heights Christmas Lights (guided tours recommended). guided bus tour $50 <- NOT IN PASS
@@ -154,3 +150,8 @@ NYC Trip
     Attend the Radio City Christmas Spectacular.                                $55-$250/Tour $42
     Piano duels.
     Try bagels and lox from Russ & Daughters and cheesecake from Junior’s.
+    Shop for winter essentials at Five Stride Skate Shop and Guitar Center.
+    Comprar gomas para paleta de ping-pong.
+    New York Hall of Science museum.
+    Lunch at Katz’s Delicatessen for classic Jewish deli fare.
+    The Mall in Central Park.
