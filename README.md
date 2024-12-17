@@ -11,7 +11,7 @@ NYC Trip
     Almuerzo en Chiplote.
     Times Square de día. ✅
  
-    Evening: Knicks vs. Pistons game at Madison Square Garden (fixed). (drama) ✅
+    Evening: Knicks vs. Pistons game at Madison Square Garden (M). (drama) ✅
 
 ## Day 2: 12/08 (Sunday)
 
@@ -47,6 +47,7 @@ NYC Trip
     
     Evening:
     Dinner near Times Square New York-style pizza ✅
+    Times Square de noche. ✅
     Little Shop of Horrors (7 PM) ✅
     
 ## Day 5: 12/11 (Wednesday)
@@ -69,7 +70,7 @@ NYC Trip
     Almuerzo en DUMBO in Brooklyn (seafood). ✅
        
     Evening:
-    Meet for drinks with your boss (fixed). ✅
+    Meet for drinks with your boss. ✅
 
 ## Day 7: 12/13 (Friday)
 
@@ -133,14 +134,14 @@ NYC Trip
 ## Day 11: 12/17 (Tuesday)
 
     Morning:
-    Comprar smartwatch.
-    Macy's III?
-    HOPE sculpture.
+    Comprar smartwatch. ✅
+    Macy's III. ✅
+    Café y dona en Dunkin' Donuts.
     Last-minute gifts.
     
     Marcel departure 🛫: 8:40 PM
     
-## Unscheduled
+## Unachieved
 
     Dim sum or spicy Szechuan cuisine.
     Enjoy a quiet dinner at a French bistro like Balthazar.
@@ -156,3 +157,4 @@ NYC Trip
     New York Hall of Science museum.
     Lunch at Katz’s Delicatessen for classic Jewish deli fare.
     The Mall in Central Park.
+    HOPE sculpture.
